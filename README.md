@@ -56,7 +56,7 @@ This will launch an **interactive demo** using Gradio.
 - 🔹 Enhance **real-time responsiveness** for faster transcription.
 
 ## 👥 Contributors
-- **[Jorge Alvarez]**
+- **Jorge Alvarez**
 - **[Karla Lopez](https://github.com/kalopez0621)**
 
 ## 📜 License
